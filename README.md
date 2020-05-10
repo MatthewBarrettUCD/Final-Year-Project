@@ -10,3 +10,7 @@ Once a model has been established this will be tested on a dataset obtained from
 ## Instructions
 
 To run the project, download the requirements.txt file and run the command "pip install -r requirements.txt" in the folder where the file is located. After requirements are installed the Jupyter Notebooks need to be downloaded and run. All results found in the report will be output in the notebooks.
+
+## Acknowledgements
+
+This report was supervised by Damian Dalton, and Fabiano Pallonetto of the UCD Energy Institute.
