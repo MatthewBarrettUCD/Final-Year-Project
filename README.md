@@ -7,6 +7,9 @@ To accomplish this a solution consisting of two modules is required: a pre-proce
 A similar approach will be applied to establish which machine learning model is most appropriate for prediction of load forecasting. The factors which will be taken into account when deciding on the most appropriate model are the complexity of the model, its efficiency, and its ability to accurately and consistently forecast electricity loads
 Once a model has been established this will be tested on a dataset obtained from University College Dublin, to validate the accuracy of the paper’s proposed solution.
 
+## Code Description
+Two notebooks containing data preparation and prediction using Long Short-Term Memory Recurrent Neural Networks and Support Vector Regressions. Evaluation and comparison of results;
+
 ## Instructions
 
 To run the project, download the requirements.txt file and run the command "pip install -r requirements.txt" in the folder where the file is located. After requirements are installed the Jupyter Notebooks need to be downloaded and run. All results found in the report will be output in the notebooks.
